@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2B90E0</color>
+    <color name="colorPrimaryVariant">@color/colorPrimary</color>
+    <color name="colorOnPrimary">@color/colorPrimary</color>
+
+    <color name="colorSecondary">@color/colorPrimary</color>
+    <color name="colorSecondaryVariant">@color/colorPrimaryVariant</color>
+    <color name="colorOnSecondary">@color/colorOnPrimary</color>
+
+    <color name="tab_main_item">#989898</color>
+
+</resources>
